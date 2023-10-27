@@ -295,7 +295,7 @@
 // =============================================================================
 // Memory size
 #define PHYS_MEMORY_START		(0x00000000)
-#define PHYS_MEMORY_SIZE		(0x40000000)
+#define PHYS_MEMORY_SIZE		(0x80000000)
 #define CONFIG_DDR3_ROW_SIZE	(3)
 #define CONFIG_DDR3_COL_SIZE	(2)
 #define CONFIG_DDR_ROW_BITS		(15)
